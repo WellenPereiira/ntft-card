@@ -14,3 +14,4 @@ Meu trabalho consiste em um Card sobre a cantora e compositora Ariana Grande, me
 <h1 align="center" color="#2E8B57;">
     <a href="https://card.wellenpereira.repl.co/index.html">🔗 Link para o meu Card 🔗</a>
 </h1>
+kj
