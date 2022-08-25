@@ -5,3 +5,12 @@ html, body {
 .imagem {
   text-align: center;
 }
+
+.arg{
+  color: green;
+}
+
+.arg:hover{
+  color:  #d21414;
+  transition: 1s;
+}
